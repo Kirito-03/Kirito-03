@@ -3,19 +3,29 @@
 
 > "Elegancia arquitectónica en código y sistemas. Diseño de infraestructuras resilientes, automatización avanzada y entornos digitales inmersivos."
 
+**[ 🔗 ACCEDER AL PORTAFOLIO PRINCIPAL ](https://kirito-03.github.io/Personal/)**
+
 ---
 
 ### ▮ INFRAESTRUCTURA Y STACK TECNOLÓGICO
 
-**[ Entornos y Orquestación ]**
-* **Sistemas Operativos:** Linux Kernel (Arch/Debian), Windows Server Environments.
-* **Infraestructura:** Docker Containers, VPS Dedicados, Cloudflare Secure Tunnels, Arquitectura SSH.
+**[ Entornos y Orquestación ]**  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**[ Lógicas y Arquitectura ]**
-* **Automatización & Backend:** Python, Node.js, Comunicación por Sockets.
-* **Desarrollo Frontend & Móvil:** Vanilla JavaScript, React, React Native.
-* **Motores Gráficos:** C#, Unity Engine (Universal Render Pipeline).
-* **Persistencia:** PostgreSQL, Estructuras de Datos JSON.
+**[ Lógicas y Arquitectura ]**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**[ Entornos de Desarrollo y Persistencia ]**  
+![Visual Studio Community](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
